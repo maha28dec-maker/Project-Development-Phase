@@ -1,0 +1,25 @@
+1. Create the Python application file.
+2. Configure the Streamlit page.
+3. Design the user interface.
+4. Add legal document selection options.
+5. Create input fields for party details.
+6. Add a field for additional clauses.
+7. Connect the application to the Gemini API.
+8. Generate legal document drafts using AI.
+9. Display the generated documents.
+10. Implement the download feature.
+11. Handle errors and validate user inputs.
+12. Test the application's functionality.
+
+Main Features:
+
+- Rental Agreement generation
+- Non-Disclosure Agreement (NDA) generation
+- Employment Offer Letter generation
+- Affidavit generation
+- Service Agreement generation
+- Automatic document structuring
+- Document download functionality
+
+Expected Outcome:
+A functional web application that generates structured legal document drafts from user-provided information.
